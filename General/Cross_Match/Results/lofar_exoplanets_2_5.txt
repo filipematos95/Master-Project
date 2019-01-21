@@ -1,0 +1,53 @@
+Simple cross-match for lofar and exoplanets
+
+Simple cross-match with a radius of 2.5 
+NAME -> RA -> DEC
+Cy -> Kepler-1057
+Cy -> Kepler-11
+Cy -> Kepler-1154
+Cy -> Kepler-118
+Cy -> Kepler-1238
+Cy -> Kepler-1309
+Cy -> Kepler-1316
+Cy -> Kepler-1331
+Cy -> Kepler-1347
+Cy -> Kepler-1378
+Cy -> Kepler-1383
+Cy -> Kepler-1508
+Cy -> Kepler-1532
+Cy -> Kepler-1546
+Cy -> Kepler-1565
+Cy -> Kepler-159
+Cy -> Kepler-203
+Cy -> Kepler-305
+Cy -> Kepler-312
+Cy -> Kepler-348
+Cy -> Kepler-353
+Cy -> Kepler-399
+Cy -> Kepler-433
+Cy -> Kepler-448
+Cy -> Kepler-48
+Cy -> Kepler-494
+Cy -> Kepler-501
+Cy -> Kepler-519
+Cy -> Kepler-539
+Cy -> Kepler-582
+Cy -> Kepler-631
+Cy -> Kepler-632
+Cy -> Kepler-695
+Cy -> Kepler-699
+Cy -> Kepler-703
+Cy -> Kepler-755
+Cy -> Kepler-797
+Cy -> Kepler-84
+Cy -> Kepler-89
+Cy -> Kepler-899
+Cy -> Kepler-911
+Cy -> Kepler-912
+Cy -> Kepler-913
+Cy -> Kepler-929
+Cy -> Kepler-930
+Cy -> Kepler-96
+Cy -> Kepler-965
+Cy -> Kepler-99
+Cy -> PH-1

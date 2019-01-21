@@ -1,0 +1,22 @@
+NAME1      NAME2
+---------  ---------------
+16 Cyg B   -16-CYG
+16 Cyg B   16-CYG
+16 Cyg B   16CY
+51 Eri     HD0293
+51 Peg     51P
+51 Peg     HD2170
+55 Cnc     -RHO-C
+HD 197037  HD-1970
+HD 80606   HD0806
+K2-3       K2
+beta Pic   -BET-P
+beta Pic   B-P
+beta Pic   BET-PIC-DISK
+beta Pic   BETA-P
+beta Pic   BETA-PIC-DIS
+beta Pic   BETAPICTOR
+beta Pic   HD390
+beta Pic   HD39060
+beta Pic   HD39060-DISK-NE
+beta Pic   HD39060-DISK-SW

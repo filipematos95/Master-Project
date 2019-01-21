@@ -1,0 +1,9 @@
+NAME1        NAME2
+-----------  -----------
+GJ 876       GJ 876
+HD 179949    HD 179949
+HD 209458    HD 209458
+beta Gem     beta Gem
+beta Pic     beta Pic
+epsilon Eri  epsilon Eri
+upsilon And  upsilon And

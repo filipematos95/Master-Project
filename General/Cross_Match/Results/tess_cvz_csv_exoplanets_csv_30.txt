@@ -1,0 +1,41 @@
+Simple cross-match for tess_cvz.csv and exoplanets.csv
+
+Simple cross-match with a radius of 30 
+CVZ -> HD 1237 b
+CVZ -> HD 147018 b
+CVZ -> HD 159868 b
+CVZ -> GJ 674 b
+CVZ -> HD 142415 b
+CVZ -> HD 154672 b
+CVZ -> HD 153950 b
+CVZ -> alpha Cen B b
+CVZ -> mu Ara b
+CVZ -> HD 108341 b
+CVZ -> WASP-46 b
+CVZ -> HD 181433 c
+CVZ -> WASP-88 b
+CVZ -> mu Ara e
+CVZ -> HD 216437 b
+CVZ -> HD 159868 c
+CVZ -> HD 137388 b
+CVZ -> HD 181433 d
+CVZ -> HD 196050 b
+CVZ -> HD 111232 b
+CVZ -> HD 154857 c
+CVZ -> HD 175167 b
+CVZ -> GJ 676 A b
+CVZ -> HD 162020 b
+CVZ -> mu Ara c
+CVZ -> HD 212301 b
+CVZ -> HD 181433 b
+CVZ -> mu Ara d
+CVZ -> HD 148156 b
+CVZ -> HD 121504 b
+CVZ -> HD 143361 b
+CVZ -> HD 156411 b
+CVZ -> HD 330075 b
+CVZ -> HD 142022 b
+CVZ -> HD 131664 b
+CVZ -> WASP-73 b
+CVZ -> HD 147018 c
+CVZ -> HD 154857 b

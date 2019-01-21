@@ -1,0 +1,6 @@
+Simple cross-match for chandra_exoplanets_21 and fuse
+
+Simple cross-match with a radius of 25 
+NAME -> RA -> DEC
+HD 179949 -> HD1799
+beta Pic -> HD390

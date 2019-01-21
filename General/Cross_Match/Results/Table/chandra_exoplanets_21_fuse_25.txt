@@ -1,0 +1,4 @@
+NAME1      NAME2
+---------  -------
+HD 179949  HD1799
+beta Pic   HD390

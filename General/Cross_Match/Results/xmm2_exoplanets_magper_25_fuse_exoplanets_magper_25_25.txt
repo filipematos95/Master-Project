@@ -1,0 +1,11 @@
+Simple cross-match for xmm2_exoplanets_magper_25 and fuse_exoplanets_magper_25
+
+Simple cross-match with a radius of 25 
+NAME -> RA -> DEC
+GJ 876 -> GJ 876
+HD 179949 -> HD 179949
+HD 209458 -> HD 209458
+beta Gem -> beta Gem
+beta Pic -> beta Pic
+epsilon Eri -> epsilon Eri
+upsilon And -> upsilon And

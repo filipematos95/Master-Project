@@ -1,0 +1,16 @@
+NAME1        NAME2
+-----------  -----------
+Kepler-1008  Kepler-1008
+Kepler-1038  Kepler-1038
+Kepler-1347  Kepler-1347
+Kepler-1416  Kepler-1416
+Kepler-1485  Kepler-1485
+Kepler-1591  Kepler-1591
+Kepler-18    Kepler-18
+Kepler-186   Kepler-186
+Kepler-34    Kepler-34
+Kepler-399   Kepler-399
+Kepler-521   Kepler-521
+Kepler-695   Kepler-695
+Kepler-720   Kepler-720
+Kepler-963   Kepler-963

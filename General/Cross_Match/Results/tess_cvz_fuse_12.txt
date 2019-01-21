@@ -1,0 +1,12 @@
+Simple cross-match for tess_cvz and fuse
+
+Simple cross-match with a radius of 12 
+CVZ -> ALPHA-TRA
+CVZ -> CPD-741569
+CVZ -> HD153262
+CVZ -> CPD-69D2698
+CVZ -> HD155555
+CVZ -> HD160635
+CVZ -> HD172555
+CVZ -> CD-64D1208
+CVZ -> HD178085

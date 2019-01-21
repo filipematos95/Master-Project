@@ -1,0 +1,12 @@
+Simple cross-match for fuse and hst_exoplanets_25
+
+Simple cross-match with a radius of 25 
+NAME -> RA -> DEC
+GLIESE8 -> GJ 8
+HD1318 -> bet U
+HD1377 -> iota D
+HD2169 -> Fomalha
+HD220 -> epsilon E
+HD390 -> beta P
+HD834 -> HD 834
+HD98 -> upsilon A

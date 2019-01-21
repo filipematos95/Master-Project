@@ -1,0 +1,17 @@
+Simple cross-match for tess_cvz and exoplanets_magper
+
+Simple cross-match with a radius of 15 
+CVZ&HD 147018 b&44.236
+CVZ&HD 142415 b&386.29999
+CVZ&HD 154672 b&163.94
+CVZ&mu Ara b&643.25
+CVZ&HD 181433 c&962.0
+CVZ&mu Ara e&310.54999
+CVZ&HD 181433 d&2172.0
+CVZ&HD 154857 c&3452.0
+CVZ&HD 175167 b&1290.0
+CVZ&mu Ara c&4205.8
+CVZ&HD 181433 b&9.3743
+CVZ&mu Ara d&9.6386
+CVZ&HD 147018 c&1008.0
+CVZ&HD 154857 b&408.6

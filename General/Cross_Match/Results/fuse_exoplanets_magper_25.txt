@@ -1,0 +1,17 @@
+Simple cross-match for fuse and exoplanets_magper
+
+Simple cross-match with a radius of 25 
+NAME1 -> NAME2 -> PER 
+HD9826 -> upsilon And b -> 4.6171363
+HD22049 -> epsilon Eri b -> 2500.0
+HD39060 -> beta Pic b -> 7154.0
+HD62509 -> beta Gem b -> 589.64001
+HD76700B -> HD 76700 b -> 3.97097
+HD83443 -> HD 83443 b -> 2.985698
+HD131873 -> bet UMi b -> 522.3
+HD137759 -> iota Dra b -> 511.098
+HD179949 -> HD 179949 b -> 3.092514
+HD209458 -> HD 209458 b -> 3.52474859
+GLIESE876 -> GJ 876 c -> 30.0881
+HD217014 -> 51 Peg b -> 4.230785
+HD216956 -> Fomalhaut b -> 318498.0

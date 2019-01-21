@@ -1,0 +1,237 @@
+NAME1                         NAME2                  PER
+----------------------------  -------------  -----------
+-16-CYG-B                     16 Cyg B b       27.4956
+-BET-PIC                      beta Pic b        3.59577
+-RHO-CNC                      55 Cnc b        670
+-RHO-CNC                      55 Cnc c          1.61186
+-RHO-CNC                      55 Cnc d         11.8952
+-RHO-CNC                      55 Cnc e         20.3597
+-RHO-CNC                      55 Cnc f          0.92831
+16-CYG-B                      16 Cyg B b       27.4956
+2MASS-J16371556+0711000       WASP-103 b     1043
+2MASS-J19021775+3824032       Kepler-9 b      198.089
+2MASS-J19021775+3824032       Kepler-9 c        3.03215
+2MASS-J19021775+3824032       Kepler-9 d       66.0634
+2MASS-J23062928-0502285       TRAPPIST-1 c   5040
+2MASS-J23062928-0502285       TRAPPIST-1 d     14.2823
+2MASS-J23062928-0502285-COPY  TRAPPIST-1 c   5040
+2MASS-J23062928-0502285-COPY  TRAPPIST-1 d     14.2823
+47-UMA                        47 UMa b        122.364
+47-UMA                        47 UMa c          3.69612
+51PEG                         51 Peg b          3.13787
+B-PIC                         beta Pic b        3.59577
+BD+41-3306                    Kepler-444 b      9.91936
+BD+41-3306                    Kepler-444 c      7.49019
+BD+41-3306                    Kepler-444 d      3.24756
+BD+41-3306                    Kepler-444 e      7.96432
+BD+41-3306                    Kepler-444 f     12.8159
+BD+413306                     Kepler-444 b      9.91936
+BD+413306                     Kepler-444 c      7.49019
+BD+413306                     Kepler-444 d      3.24756
+BD+413306                     Kepler-444 e      7.96432
+BD+413306                     Kepler-444 f     12.8159
+BD+47-2936                    HAT-P-11 b        2.51462
+BD+68D946                     GJ 687 b          4.6455
+BET-PIC-DISK-1                beta Pic b        3.59577
+COROT-1                       CoRoT-1 b         0.986787
+COROT-2                       CoRoT-2 b         3.18898
+FOMALHAUT-B                   Fomalhaut b       4.33643
+GJ-1214                       GJ 1214 b         6.6264
+GJ-3470                       GJ 3470 b        13.322
+GJ1214                        GJ 1214 b         6.6264
+GJ614                         14 Her b         10.291
+GJ651                         HD 154345 b       2.83897
+GJ667C                        GJ 667 C b       51.7554
+GJ667C                        GJ 667 C c       10.5263
+GJ832                         GJ 832 b       1970
+GJ832                         GJ 832 c         26.4105
+GL-328                        GJ 328 b         44.236
+GSC-04980-00761               WASP-39 b        57.011
+GSC-05490-00141               WASP-43 b         4.40967
+HAT-12                        HAT-P-12 b        3.38802
+HAT-13                        HAT-P-13 b      598.3
+HAT-13                        HAT-P-13 c      109.647
+HAT-7                         HAT-P-7 b        12.3104
+HAT-P-1                       HAT-P-1 b        18.3699
+HAT-P-11                      HAT-P-11 b        2.51462
+HAT-P-12                      HAT-P-12 b        3.38802
+HAT-P-17                      HAT-P-17 b      974
+HAT-P-18                      HAT-P-18 b       16.0076
+HAT-P-26                      HAT-P-26 b       10.9129
+HAT-P-3                       HAT-P-3 b        92.8761
+HAT-P-32                      HAT-P-32 b       12.2824
+HAT-P-38                      HAT-P-38 b       20.9254
+HAT-P-41                      HAT-P-41 b        6.47028
+HAT-P-7                       HAT-P-7 b        12.3104
+HD-10180                      HD 10180 c        8.88659
+HD-10180                      HD 10180 d       29.3932
+HD-10180                      HD 10180 e       37.8145
+HD-10180                      HD 10180 f        5.37065
+HD-10180                      HD 10180 g       11.9401
+HD-10180                      HD 10180 h        5.1233
+HD-102117                     HD 102117 b    1260
+HD-104067                     HD 104067 b     577.9
+HD-10647                      HD 10647 b     2068
+HD-114729A                    HD 114729 b       4.22864
+HD-114783                     HD 114783 b       2.05334
+HD-117618                     HD 117618 b      12.6119
+HD-121504                     HD 121504 b       3.09276
+HD-128311                     HD 128311 b     778.1
+HD-128311                     HD 128311 c       2.57886
+HD-136118                     HD 136118 b       3.93698
+HD-1461                       HD 1461 b        11.6093
+HD-146389                     WASP-38 b        70.46
+HD-147018                     HD 147018 b    1749.83
+HD-147018                     HD 147018 c       6.389
+HD-154345                     HD 154345 b       2.83897
+HD-155358                     HD 155358 b      85.7565
+HD-155358                     HD 155358 c       1.91694
+HD-156668                     HD 156668 b       3.30654
+HD-164922                     HD 164922 b       4.44448
+HD-178911-B                   HD 178911 B b    10.054
+HD-187085                     HD 187085 b       7.84932
+HD-189733                     HD 189733 b       0.789162
+HD-192263                     HD 192263 b     931
+HD-197037                     HD 197037 b       2.89223
+HD-209458                     HD 209458 b       5.26342
+HD-222582                     HD 222582 b      29.3495
+HD-23079                      HD 23079 b      163.94
+HD-28185                      HD 28185 b        8.67889
+HD-37124                      HD 37124 b       19.5771
+HD-37124                      HD 37124 c       17.79
+HD-37124                      HD 37124 d      479.1
+HD-38529                      HD 38529 b       18.649
+HD-38529                      HD 38529 c       10.3039
+HD-4113                       HD 4113 b         2.07276
+HD-4208                       HD 4208 b         5.0505
+HD-47186                      HD 47186 b        6.77409
+HD-47186                      HD 47186 c       52.0906
+HD-65216                      HD 65216 b        8.19347
+HD-70642                      HD 70642 b        7.20284
+HD-7924                       HD 7924 b        51.8469
+HD-7924                       HD 7924 c         1.10446
+HD-7924                       HD 7924 d         7.95353
+HD-79498                      HD 79498 b       13.2493
+HD-90156                      HD 90156 b        6.51113
+HD-92788                      HD 92788 b       15.9554
+HD-99492                      HD 99492 b       89.7223
+HD001461                      HD 1461 b        11.6093
+HD007924                      HD 7924 b        51.8469
+HD007924                      HD 7924 c         1.10446
+HD007924                      HD 7924 d         7.95353
+HD009826                      upsilon And b     0.689968
+HD009826                      upsilon And c  1278.12
+HD009826                      upsilon And d     2.54307
+HD011964                      HD 11964 b        9.62
+HD011964                      HD 11964 c      350.3
+HD019994                      HD 19994 b       21.2227
+HD022049                      epsilon Eri b   288.822
+HD029391                      51 Eri b          3.03958
+HD033564                      HD 33564 b      nan
+HD052265                      HD 52265 b        4.88782
+HD068988                      HD 68988 b       17.9349
+HD069830                      HD 69830 b       26.0841
+HD069830                      HD 69830 c       18.2013
+HD069830                      HD 69830 d       33.1979
+HD071369                      omicron UMa b     9.32807
+HD080607                      HD 80606 b        4.215
+HD099492B                     HD 99492 b       89.7223
+HD106252                      HD 106252 b      16.0852
+HD114762                      HD 114762 b       6.958
+HD115383                      GJ 504 b         11.815
+HD115617-NEW                  61 Vir b          3.8335
+HD115617-NEW                  61 Vir c          4.91958
+HD115617-NEW                  61 Vir d        153.98
+HD120136                      tau Boo b        16.9344
+HD1237                        HD 1237 b        15.7738
+HD126614                      HD 126614 A b    54.1557
+HD131873                      bet UMi b        10.9295
+HD136726                      11 UMi b          3.27346
+HD137759                      iota Dra b        2.51994
+HD141680                      omega Ser b       3.33616
+HD142091                      kappa CrB b       2.8997
+HD145675                      14 Her b         10.291
+HD149026                      HD 149026 b      11.6291
+HD181720                      HD 181720 b      15.9654
+HD189733                      HD 189733 b       0.789162
+HD192263                      HD 192263 b     931
+HD192310                      HD 192310 b       9.6737
+HD192310                      HD 192310 c      44.2008
+HD19994                       HD 19994 b       21.2227
+HD209458                      HD 209458 b       5.26342
+HD217014                      51 Peg b          3.13787
+HD217107                      HD 217107 b       3.94661
+HD217107                      HD 217107 c     525.8
+HD22049                       epsilon Eri b   288.822
+HD222404                      gamma Cep b     550
+HD28305                       epsilon Tau b   219.322
+HD3651                        HD 3651 b       559.405
+HD39060                       beta Pic b        3.59577
+HD40307                       HD 40307 b       31.3309
+HD40307                       HD 40307 c        8.05334
+HD40307                       HD 40307 d       75.523
+HD47205                       7 CMa b           6.48022
+HD83443                       HD 83443 b        3.05654
+HD85512                       HD 85512 b        4.12448
+HD97658                       HD 97658 b       39.6432
+HD9826                        upsilon And b     0.689968
+HD9826                        upsilon And c  1278.12
+HD9826                        upsilon And d     2.54307
+HIP-91258                     HIP 91258 b       2.78816
+K2-25                         K2-25 b          21.3588
+K2-3                          K2-3 b           33.4697
+K2-3                          K2-3 c         1523
+K2-3                          K2-3 d            3.27646
+KELT-7                        KELT-7 b        345.72
+KEPLER-11                     Kepler-11 b      45.2948
+KEPLER-11                     Kepler-11 c      49.77
+KEPLER-11                     Kepler-11 d      53.5293
+KEPLER-11                     Kepler-11 e      36.9249
+KEPLER-11                     Kepler-11 f       3.60011
+KEPLER-11                     Kepler-11 g       8.6001
+KEPLER-138                    Kepler-138 b      1.33712
+KEPLER-16                     Kepler-16 b      12.8345
+KEPLER-51                     Kepler-51 b      10.6761
+KEPLER-51                     Kepler-51 c       8.59481
+KOI-13                        KOI-13 b          3.10551
+MIDPOINT                      HAT-P-1 b        18.3699
+MU-ARA                        mu Ara b         37.9456
+MU-ARA                        mu Ara c          6.91311
+MU-ARA                        mu Ara d          4.13963
+MU-ARA                        mu Ara e         10.8485
+RHO-CRB                       rho CrB b         9.22052
+TRES-2                        TrES-2 b          5.41903
+TRES-3                        TrES-3 b         14.9744
+TRES-4                        TrES-4 b          5.18561
+TRES1                         TrES-1 b          3.03618
+TYC-5165-481-1                WASP-80 b        17.4608
+V-EPS-ERI                     epsilon Eri b   288.822
+V-IL-AQR                      GJ 876 b          5.30881
+V-IL-AQR                      GJ 876 c          0.74296
+V-IL-AQR                      GJ 876 d          0.925542
+V-IL-AQR                      GJ 876 e          0.538354
+WASP-101                      WASP-101 b        7.23859
+WASP-12                       WASP-12 b         5.34982
+WASP-13                       WASP-13 b       150.242
+WASP-17                       WASP-17 b      1928
+WASP-18                       WASP-18 b       123.75
+WASP-19                       WASP-19 b         2.75798
+WASP-29                       WASP-29 b         9.03081
+WASP-31                       WASP-31 b       258.18
+WASP-33                       WASP-33 b        29.1989
+WASP-39                       WASP-39 b        57.011
+WASP-4                        WASP-4 b          3.11603
+WASP-43                       WASP-43 b         4.40967
+WASP-52                       WASP-52 b         2.29504
+WASP-6                        WASP-6 b        325.81
+WASP-62                       WASP-62 b         4.20474
+WASP-63                       WASP-63 b         3.21306
+WASP-67                       WASP-67 b       127.908
+WASP-69                       WASP-69 b        20.3505
+WASP-74                       WASP-74 b         9.0342
+WASP-79                       WASP-79 b         4.15981
+WASP-80                       WASP-80 b        17.4608
+XO-1                          XO-1 b         1531
+XO-2                          XO-2 b           28.0819
+XO-2                          XO-2S b          16.1289
+XO-2                          XO-2S c          19.5975

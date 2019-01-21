@@ -1,0 +1,6 @@
+Simple cross-match for chandra_exoplanets_25 and fuse_exoplanets_magper_25
+
+Simple cross-match with a radius of 25 
+NAME -> RA -> DEC
+51 P -> 51 Peg
+HD 1799 -> HD 179949

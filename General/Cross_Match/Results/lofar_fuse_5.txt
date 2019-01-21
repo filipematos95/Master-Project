@@ -1,0 +1,18 @@
+Simple cross-match for lofar and fuse
+
+Simple cross-match with a radius of 5 
+NAME -> RA -> DEC 
+CygA -> HD186994
+CygA -> HD187879
+CygA -> HD189957
+CygA -> HD191423
+CygA -> HD192303
+CygA -> HD192987
+CygA -> HD193237
+CygA -> HD193322
+CygA -> V1685-CYG
+CygA -> HD194093
+3c48A -> BD+32D270
+3c147 -> HD041161
+3c286 -> HD114710
+3c287 -> HD117555
